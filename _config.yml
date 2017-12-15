@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hier erfahrt ihr alles über Hundkatzenschweinerei und den Searchmetrics Seo Contest 2017.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.hund-katze-schweinerei.de" # the base hostname & protocol for your site
+unpublished: false
 exclude: [hundkatzenschweinerei.iml, deploy.sh]
 twitter_username: hundkatzeschwei
 github_username:  hundkatzenschweinerei
