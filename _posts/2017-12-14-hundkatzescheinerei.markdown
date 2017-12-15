@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hundkatzeschweinerei"
+title:  "Hundkatzenschweinerei"
 date:   2017-12-14 11:32:45 +0100
 categories: hundkatzenschweinerei
 ---
