@@ -6,6 +6,6 @@ categories: hundkatzeschweinerei
 ---
 Willkommen auf unserer Seite zum Thema Hundkatzeschweinerei. Dies ist unser Beitrag zum [Searchmetrics][searchmetrics] Seo Contest 2017.
 
-Viel Spaß!!!
+Viel Spaß, Freunde!!!
 
 [searchmetrics]: https://searchmetrics.com
